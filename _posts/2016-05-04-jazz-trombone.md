@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My first jazz blog post
+category: jazz
 ---
 
 I play trombone as hobby in wind orchestra.
