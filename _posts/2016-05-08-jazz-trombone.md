@@ -11,3 +11,6 @@ basic training
 scale
 
 
+training
+licks
+
